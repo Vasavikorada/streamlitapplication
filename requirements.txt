@@ -1,6 +1,7 @@
-oandas
+pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
 streamlit
+tenserflow
